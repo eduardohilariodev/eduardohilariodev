@@ -6,8 +6,6 @@ Software Engineer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [eduardohilariodev@pm.me](mailto:eduardohilariodev@pm.me)
-* 🚀  I'm currently working on [Ckreativ](http://www.ckreativ.com)
-* 🧠  I'm learning React and DSA
 
 ### Skills
 
