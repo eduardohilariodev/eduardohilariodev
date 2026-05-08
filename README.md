@@ -10,7 +10,5 @@ I'm a software engineer and designer, from Brazil. I work on lots of stuff, on t
 - [LinkedIn](https://linkedin.com/in/eduardohilariodev)
 - [My website](https://eduardohilariodev.com)
 - [Email](mailto:eduardohilariodev@pm.me)
-- [WhatsApp](wa.me/5548996322397)
-- [Resume](https://eduardohilariodev.com/resume)
 
 Take a look at my projects bellow and, in case you're interested, send me a message!
